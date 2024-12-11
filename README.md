@@ -1,26 +1,22 @@
-# Geração de Ebook - tema: O TITANIC # 
-  Desafio: Descubra: É Natural ou Fake Natty? 
+# Geração de Ebook - tema: O Poder do IA no Open Finance # 
+   
 ## 📒 Descrição
 Geração de um EBOOK utilizando de várias ferramentas de IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
 Foi utilizadas as IAs Gerenerativas
 - ChatGPT
-- CoPilot
-- Bard|Gemini
-- Leonard AI
-- ElevenLabs
-- HeyGen
+- Leonard.AI
+- MidJorney
+- ShowCode
   
 
 ## 🧐 Processo de Criação
-- Os textos com chatbots como chatGPT, CoPilot e Bard.
-- As Imagens foram geradas pelo ChatGpt, Bard e Leonard AI
-- O audio foi gerado pelo o Elevenlabs
-- Para o video foi utilizado o HeyGen.
+- Os textos com chatbots como chatGPT.
+- As Imagens foram geradas pelo Leonard AI
 
 ## 🚀 Resultados
-O projeto ficou bem estruturado textualmente, com ilustrações bem elaboradas e Video com narração clara e concisa.
+O projeto ficou bem estruturado textualmente, diagramado no powerpoint, com ilustrações bem elaboradas.
 
 ## 💭 Reflexão (Opcional)
 É incrivel a flexibilidade, precisão, rapidez e qualidade que é alcançada usando as IAs Generativas.
